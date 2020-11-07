@@ -29,7 +29,7 @@ Android Penetration Kit - Hacking Kit, Fully Developed in Python3, Console Based
 1. Python3
 
 ## Disclaimer
-This is just for Educational and Research Purpose!, Use at you own Risk!!
+This is just for Educational and Research Purpose!, Use at your own Risk!!
 
 ## LICENSE
 MIT-COPYRIGHT FREE
